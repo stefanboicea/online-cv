@@ -1,24 +1,27 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Here's a short description of some of my projects. Most of them were in-house solutions for clients."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title: Claims Office
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Insurance Claims app helping involved actors (assessors,clerks, repair shops) manage the claims lifecycle. Business rules engine, claim workfflows, automatic delegations."
 - project:
-  title: Tempo
+  title: Osprey.TM
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "Case management app helping law firms manage their business. Matter history, matter workflows, matter document management."
 - project:
-  title: Atom
+  title: E-Learning 
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  tagline: "An e-learning app designed for Microsoft to help course creation and student assignments."
 - project:
-  title: Delta
+  title: Policy Management
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Policy product management app designed to help insurance policy issuers configure their products."
+- project:
+  title: Romanian customs app
+  link: "#"
+  tagline: "A customs app designed to help customs officers track passing cars' information."
+- project:
+  title: Metrics information
+  link: "#"
+  tagline: "An app containing several reports for sales people in the turbine selling business to make better decisions."

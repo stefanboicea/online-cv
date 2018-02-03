@@ -1,28 +1,21 @@
 - experience:
-  role: Lead Developer
+  role: Technology consultant
   time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  company: Self-employed
+  details: "Contract work with several clients in the insurance business. Optimized document workflows, task workflows. Worked at developing a claims management app."
 - experience:
   role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  time: 2013 - 2015
+  company: Cloud Business Solutions
+  details: "Worked at company's products - a law firms' software & a crm system. Development of internal tools administering a private cloud."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Software Engineer
+  time: 2011 - 2013
+  company: Softelligence
+  details: "Elite high-end outsourcing team member. 
+Custom in-house & project based software development for industry-leading clients (retail businesses & insurance businesses)."
+- experience:
+  role: Software Engineer
+  time: 2010 - 2011
+  company: Solution Oriented Software
+  details: "Design and implementation of apps in the job sector. Worked at a customs-management app."
