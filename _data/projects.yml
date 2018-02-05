@@ -5,23 +5,29 @@
   title: Claims Office
   link: "#"
   tagline: "Insurance Claims app helping involved actors (assessors,clerks, repair shops) manage the claims lifecycle. Business rules engine, claim workfflows, automatic delegations."
+  technologies: Angular, Auth, Node.js, Amazon Web Services, Docker, T-SQL, Oracle DB
 - project:
   title: Osprey.TM
   link: "#"
   tagline: "Case management app helping law firms manage their business. Matter history, matter workflows, matter document management."
+  technologies: .Net Framework (Asp.Net MVC, WCF), T-SQL, SQL Server DB, Ext JS
 - project:
   title: E-Learning 
   link: "#"
   tagline: "An e-learning app designed for Microsoft to help course creation and student assignments."
+  technologies: .Net Framework (Asp.Net, Web Services), T-SQL, SQL Server DB, Telerik UI
 - project:
   title: Policy Management
   link: "#"
   tagline: "Policy product management app designed to help insurance policy issuers configure their products."
+  technologies: .Net Framework (Asp.Net, .Net Core, Web Services, WCF), T-SQL, Oracle DB, Javascript, JQuery 
 - project:
   title: Romanian customs app
   link: "#"
   tagline: "A customs app designed to help customs officers track passing cars' information."
+  technologies: .Net Framework (Asp.Net, Web Services), T-SQL, SQL Server DB, Javascript, JQuery 
 - project:
   title: Metrics information
   link: "#"
   tagline: "An app containing several reports for sales people in the turbine selling business to make better decisions."
+  technologies: .Net Framework (Asp.Net MVC, WCF), T-SQL, SQL Server DB, Javascript, JQuery
