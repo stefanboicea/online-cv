@@ -2,32 +2,43 @@
   description: "Here's a short description of some of my projects. Most of them were in-house solutions for clients."
 
 - project:
-  title: Claims Office
+  title: Claims Office (2017  ~1y)
   link: "#"
   tagline: "Insurance Claims app helping involved actors (assessors,clerks, repair shops) manage the claims lifecycle. Business rules engine, claim workfflows, automatic delegations."
-  technologies: Angular, Auth, Node.js, Amazon Web Services, Docker, T-SQL, Oracle DB
+  technologies: Angular, Auth, Node.js, Amazon Web Services, Docker, T-SQL, Oracle DB, WebPack
 - project:
-  title: Osprey.TM
+  title: Repair shop advisor (2015  ~4m)
+  link: "#"
+  tagline: "Advisor app that gathers partener repair shop metrics and makes repair suggestions for clients."
+  technologies: Nancy Framework, .Net Framework, T-SQL, Javascript, Gulp
+- project:
+  title: Risk Inspection (2016  ~4m)
+  link: "#"
+  tagline: "Damage-capturing/risk inspection app that allows policy agents to gather information about a car prior to issuing a policy."
+  technologies: Nancy Framework, .Net Framework, T-SQL, Javascript, Gulp
+- project:
+  title: Osprey.TM (2014 ~1y)
   link: "#"
   tagline: "Case management app helping law firms manage their business. Matter history, matter workflows, matter document management."
   technologies: .Net Framework (Asp.Net MVC, WCF), T-SQL, SQL Server DB, Ext JS
 - project:
-  title: E-Learning 
+  title: Metrics information (2014 ~4m)
+  link: "#"
+  tagline: "An app containing several reports for people in the turbine business to make better selling decisions."
+  technologies: .Net Framework (Asp.Net MVC, WCF), T-SQL, SQL Server DB, Javascript, JQuery
+- project:
+  title: E-Learning (2014 ~3m)
   link: "#"
   tagline: "An e-learning app designed for Microsoft to help course creation and student assignments."
   technologies: .Net Framework (Asp.Net, Web Services), T-SQL, SQL Server DB, Telerik UI
 - project:
-  title: Policy Management
+  title: Policy Management (2011-2013)
   link: "#"
-  tagline: "Policy product management app designed to help insurance policy issuers configure their products."
+  tagline: "Policy product management app designed to help insurance policy issuers configure their products and business workflows."
   technologies: .Net Framework (Asp.Net, .Net Core, Web Services, WCF), T-SQL, Oracle DB, Javascript, JQuery 
 - project:
-  title: Romanian customs app
+  title: Romanian customs app (2010-2011)
   link: "#"
   tagline: "A customs app designed to help customs officers track passing cars' information."
   technologies: .Net Framework (Asp.Net, Web Services), T-SQL, SQL Server DB, Javascript, JQuery 
-- project:
-  title: Metrics information
-  link: "#"
-  tagline: "An app containing several reports for sales people in the turbine selling business to make better decisions."
-  technologies: .Net Framework (Asp.Net MVC, WCF), T-SQL, SQL Server DB, Javascript, JQuery
+
